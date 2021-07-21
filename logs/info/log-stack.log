@@ -1,0 +1,70 @@
+10:16:32.019 [main] INFO  c.g.e.demo.ExceptionDemoApplication 55 - Starting ExceptionDemoApplication using Java 1.8.0_221 on DESKTOP-L8B61V2 with PID 14104 (D:\MySpace\2021\exception-demo\target\classes started by Administrator in D:\MySpace\2021\exception-demo)
+10:16:32.021 [main] INFO  c.g.e.demo.ExceptionDemoApplication 659 - No active profile set, falling back to default profiles: default
+10:16:32.773 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 108 - Tomcat initialized with port(s): 8080 (http)
+10:16:32.781 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+10:16:32.782 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+10:16:32.782 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+10:16:32.852 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+10:16:32.853 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext 290 - Root WebApplicationContext: initialization completed in 792 ms
+10:16:33.122 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+10:16:33.137 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 220 - Tomcat started on port(s): 8080 (http) with context path ''
+10:16:33.145 [main] INFO  c.g.e.demo.ExceptionDemoApplication 61 - Started ExceptionDemoApplication in 1.459 seconds (JVM running for 4.614)
+10:16:37.875 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:16:37.876 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 525 - Initializing Servlet 'dispatcherServlet'
+10:16:37.877 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 547 - Completed initialization in 1 ms
+10:17:40.928 [main] INFO  c.g.e.demo.ExceptionDemoApplication 55 - Starting ExceptionDemoApplication using Java 1.8.0_221 on DESKTOP-L8B61V2 with PID 9300 (D:\MySpace\2021\exception-demo\target\classes started by Administrator in D:\MySpace\2021\exception-demo)
+10:17:40.932 [main] INFO  c.g.e.demo.ExceptionDemoApplication 659 - No active profile set, falling back to default profiles: default
+10:17:41.682 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 108 - Tomcat initialized with port(s): 8080 (http)
+10:17:41.706 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+10:17:41.708 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+10:17:41.708 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+10:17:41.777 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+10:17:41.777 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext 290 - Root WebApplicationContext: initialization completed in 802 ms
+10:17:42.030 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+10:17:42.044 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 220 - Tomcat started on port(s): 8080 (http) with context path ''
+10:17:42.051 [main] INFO  c.g.e.demo.ExceptionDemoApplication 61 - Started ExceptionDemoApplication in 1.441 seconds (JVM running for 2.26)
+10:17:45.673 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:17:45.674 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 525 - Initializing Servlet 'dispatcherServlet'
+10:17:45.675 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet 547 - Completed initialization in 1 ms
+10:18:10.194 [main] INFO  c.g.e.demo.ExceptionDemoApplication 55 - Starting ExceptionDemoApplication using Java 1.8.0_221 on DESKTOP-L8B61V2 with PID 13188 (D:\MySpace\2021\exception-demo\target\classes started by Administrator in D:\MySpace\2021\exception-demo)
+10:18:10.198 [main] INFO  c.g.e.demo.ExceptionDemoApplication 659 - No active profile set, falling back to default profiles: default
+10:18:10.987 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 108 - Tomcat initialized with port(s): 8080 (http)
+10:18:10.995 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+10:18:10.996 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+10:18:10.996 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+10:18:11.065 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+10:18:11.066 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext 290 - Root WebApplicationContext: initialization completed in 822 ms
+10:18:11.374 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+10:18:11.392 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 220 - Tomcat started on port(s): 8080 (http) with context path ''
+10:18:11.404 [main] INFO  c.g.e.demo.ExceptionDemoApplication 61 - Started ExceptionDemoApplication in 1.556 seconds (JVM running for 3.77)
+10:18:14.888 [http-nio-8080-exec-3] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:18:14.889 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet 525 - Initializing Servlet 'dispatcherServlet'
+10:18:14.890 [http-nio-8080-exec-3] INFO  o.s.web.servlet.DispatcherServlet 547 - Completed initialization in 1 ms
+10:18:46.948 [main] INFO  c.g.e.demo.ExceptionDemoApplication 55 - Starting ExceptionDemoApplication using Java 1.8.0_221 on DESKTOP-L8B61V2 with PID 3424 (D:\MySpace\2021\exception-demo\target\classes started by Administrator in D:\MySpace\2021\exception-demo)
+10:18:46.951 [main] INFO  c.g.e.demo.ExceptionDemoApplication 659 - No active profile set, falling back to default profiles: default
+10:18:47.792 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 108 - Tomcat initialized with port(s): 8080 (http)
+10:18:47.800 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+10:18:47.801 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+10:18:47.801 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+10:18:47.876 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+10:18:47.876 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext 290 - Root WebApplicationContext: initialization completed in 862 ms
+10:18:48.189 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+10:18:48.205 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 220 - Tomcat started on port(s): 8080 (http) with context path ''
+10:18:48.217 [main] INFO  c.g.e.demo.ExceptionDemoApplication 61 - Started ExceptionDemoApplication in 1.694 seconds (JVM running for 2.948)
+10:18:48.372 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:18:48.372 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet 525 - Initializing Servlet 'dispatcherServlet'
+10:18:48.373 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet 547 - Completed initialization in 0 ms
+10:19:25.650 [main] INFO  c.g.e.demo.ExceptionDemoApplication 55 - Starting ExceptionDemoApplication using Java 1.8.0_221 on DESKTOP-L8B61V2 with PID 13556 (D:\MySpace\2021\exception-demo\target\classes started by Administrator in D:\MySpace\2021\exception-demo)
+10:19:25.657 [main] INFO  c.g.e.demo.ExceptionDemoApplication 659 - No active profile set, falling back to default profiles: default
+10:19:26.478 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 108 - Tomcat initialized with port(s): 8080 (http)
+10:19:26.487 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8080"]
+10:19:26.488 [main] INFO  o.a.catalina.core.StandardService 173 - Starting service [Tomcat]
+10:19:26.488 [main] INFO  o.a.catalina.core.StandardEngine 173 - Starting Servlet engine: [Apache Tomcat/9.0.48]
+10:19:26.558 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+10:19:26.558 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext 290 - Root WebApplicationContext: initialization completed in 853 ms
+10:19:26.865 [main] INFO  o.a.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8080"]
+10:19:26.881 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer 220 - Tomcat started on port(s): 8080 (http) with context path ''
+10:19:26.890 [main] INFO  c.g.e.demo.ExceptionDemoApplication 61 - Started ExceptionDemoApplication in 1.731 seconds (JVM running for 2.753)
+10:19:32.000 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] 173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:19:32.000 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet 525 - Initializing Servlet 'dispatcherServlet'
+10:19:32.001 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet 547 - Completed initialization in 1 ms
